@@ -1,0 +1,41 @@
+Worker 1 started.
+Worker 1 processing Task 1
+Worker 2 started.
+Worker 2 processing Task 2
+Worker 3 started.
+Worker 3 processing Task 3
+Worker 1 completed Task 1
+Worker 1 processing Task 4
+Worker 3 completed Task 3
+Worker 3 processing Task 5
+Worker 2 completed Task 2
+Worker 2 processing Task 6
+Worker 2 completed Task 6
+Worker 2 processing Task 7
+Worker 3 completed Task 5
+Worker 3 processing Task 8
+Worker 1 completed Task 4
+Worker 1 processing Task 9
+Worker 1 completed Task 9
+Worker 1 processing Task 10
+Worker 3 completed Task 8
+Worker 3 finished.
+Worker 2 completed Task 7
+Worker 2 finished.
+Worker 1 completed Task 10
+Worker 1 finished.
+
+Final Results:
+Task 1 -> Result 2
+Task 3 -> Result 6
+Task 2 -> Result 4
+Task 6 -> Result 12
+Task 5 -> Result 10
+Task 4 -> Result 8
+Task 9 -> Result 18
+Task 8 -> Result 16
+Task 7 -> Result 14
+Task 10 -> Result 20
+
+Results saved to results.txt
+Data Processing System finished.

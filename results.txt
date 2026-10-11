@@ -1,0 +1,10 @@
+Task 3 -> Result 6
+Task 2 -> Result 4
+Task 1 -> Result 2
+Task 5 -> Result 10
+Task 4 -> Result 8
+Task 6 -> Result 12
+Task 8 -> Result 16
+Task 7 -> Result 14
+Task 9 -> Result 18
+Task 10 -> Result 20
