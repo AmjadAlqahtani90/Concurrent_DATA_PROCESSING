@@ -32,7 +32,7 @@ This project demonstrates concurrent data processing using **Java** and **Go**.
 cd Go-Version
 ```
 
-Run the Go program (if the entry file is `main.go`):
+Run the Go program:
 
 ```bash
 go run main.go
